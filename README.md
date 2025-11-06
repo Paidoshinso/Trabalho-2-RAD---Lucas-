@@ -49,6 +49,7 @@ Para referenciar a imagem no README (visualização local no GitHub/VSCode), use
 ```
 Crie a pasta `assets` se ela não existir:
 ```
+![alt text](https:Captura de Tela (1).png)
 mkdir "c:\Users\princ\Documents\trabalho 2 Lucas\assets"
 ```
 Em seguida copie/cole a imagem `preview.png` para essa pasta.
