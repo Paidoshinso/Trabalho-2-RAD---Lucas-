@@ -19,12 +19,8 @@ py -m pip install requests PyPDF2
 
 ## Como executar
 No PowerShell (ou terminal):
-```
-py "c:/Users/princ/Documents/trabalho 2 Lucas/main.py"
-```
-ou
-```
-python "c:/Users/princ/Documents/trabalho 2 Lucas/main.py"
+
+python "c:/Usuario/usuario/Documentos/trabalho 2 Lucas/main.py"
 ```
 
 1. Clique em "Escolher arquivo PDF".
