@@ -39,24 +39,13 @@ python "c:/Users/princ/Documents/trabalho 2 Lucas/main.py"
 - Formato em português: `25 de dezembro de 2025`
 
 ## Adicionar imagem de pré-visualização (opcional)
-Coloque a imagem na pasta do projeto, por exemplo:
-```
-c:\Users\princ\Documents\trabalho 2 Lucas\assets\preview.png
-```
-Para referenciar a imagem no README (visualização local no GitHub/VSCode), use caminho relativo:
-```markdown
-![Preview do app](assets/preview.png)
-```
-Crie a pasta `assets` se ela não existir:
-```
-mkdir "c:\Users\princ\Documents\trabalho 2 Lucas\assets"
-```
-Em seguida copie/cole a imagem `preview.png` para essa pasta.
+<p align="center">
+  <img src="Captura de Tela (1).png" alt="Logo" width="500"/>
+</p>
 
 ## Git (opcional)
 Inicializar repositório e commitar:
 ```
-cd "c:\Users\princ\Documents\trabalho 2 Lucas"
 git init
 git add main.py README.md
 git commit -m "Primeiro commit: app verificador de feriados a partir de PDF"
