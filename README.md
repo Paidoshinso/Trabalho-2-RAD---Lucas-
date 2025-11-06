@@ -23,6 +23,11 @@ No PowerShell (ou terminal):
 python "c:/Usuario/usuario/Documentos/trabalho 2 Lucas/main.py"
 ```
 
+ Adicionar imagem de pré-visualização (opcional)
+<p align="center">
+  <img src="Captura de Tela (1).png" alt="Logo" width="800"/>
+</p>
+
 1. Clique em "Escolher arquivo PDF".
 2. Selecione o PDF que contém as datas.
 3. Clique em "Verificar feriados".
