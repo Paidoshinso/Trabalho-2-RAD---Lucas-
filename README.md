@@ -40,7 +40,7 @@ python "c:/Users/princ/Documents/trabalho 2 Lucas/main.py"
 
 ## Adicionar imagem de pré-visualização (opcional)
 <p align="center">
-  <img src="Captura de Tela (1).png" alt="Logo" width="200"/>
+  <img src="Captura de Tela (1).png" alt="Logo" width="500"/>
 </p>
 
 ## Git (opcional)
